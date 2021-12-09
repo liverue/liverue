@@ -1,7 +1,7 @@
 ## Jaemin Jang
 ### Hi there 👋
 #### Current Status: Studying at Soongsil Univ. 👩‍💻
-I am currently learning these👉 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html.jpg&logoColor=E34F26"/>
+I am currently learning these👉 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=로고&logoColor=E34F26"/>
 
 
 <!--
