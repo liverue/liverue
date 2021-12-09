@@ -1,6 +1,6 @@
 ## Jaemin Jang
 ### Hi there 👋
-Current Status: Studying at Soongsil Univ.
+####Current Status: Studying at Soongsil Univ.
 I am currently learning these👉 
 
 
