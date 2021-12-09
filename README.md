@@ -1,5 +1,8 @@
 ## Jaemin Jang
 ### Hi there 👋
+Current Status: Studying at Soongsil Univ.
+I am currently learning these👉 
+
 
 <!--
 **liverue/liverue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
