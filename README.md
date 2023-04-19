@@ -1,6 +1,6 @@
 Jaemin Jang
 ===========
-<br>Also I hope to develop every useful and accessible things. ✨
+Also I hope to develop every useful and accessible things. ✨
 #### Current Status: Studying at Soongsil Univ. 👩‍💻🌱
 
 <table border="0">
