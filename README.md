@@ -1,6 +1,6 @@
 Jaemin Jang
 ===========
-Also I hope to develop every useful and accessible things. ✨
+자바를 배우고 있는 중입니다 ✨
 #### Current Status: Studying at Soongsil Univ. 👩‍💻🌱
 
 <table border="0">
